@@ -6,7 +6,7 @@
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-nyx-devs-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyx)
+[![GitHub](https://img.shields.io/badge/GitHub-nyx--devs-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyx-devs)
 [![Discord](https://img.shields.io/badge/Discord-.nyxdev-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 </div>
@@ -19,7 +19,7 @@ I'm **Tyler**, a software developer known online as **nyx**.
 
 I build software, game systems, web applications and developer tools. Most of my work is around **Roblox, FiveM, web and desktop development**.
 
-I like building things from scratch, figuring out how systems work and turning ideas into something usable.
+I enjoy building things from scratch, figuring out how systems work and turning ideas into software people can actually use.
 
 ---
 
@@ -65,7 +65,7 @@ Roblox • FiveM • Windows
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nyx&show_icons=true&hide_border=true&bg_color=0b0f0e&title_color=ffffff&icon_color=8affc1&text_color=c9d1d9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nyx-devs&show_icons=true&hide_border=true&bg_color=0b0f0e&title_color=ffffff&icon_color=8affc1&text_color=c9d1d9"/>
 
 </div>
 
