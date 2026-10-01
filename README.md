@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f0e&height=200&section=header&text=nyx&fontSize=72&fontColor=ffffff&fontAlignY=50&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=8AFFC1&center=true&vCenter=true&width=650&lines=Software+Developer;Building+software%2C+games+%26+tools;Roblox+%7C+FiveM+%7C+Web+%7C+Desktop"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=8AFFC1&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Software+%7C+Games+%7C+Tools;Roblox+%7C+FiveM+%7C+Web+%7C+Desktop"/>
 
 <br><br>
 
@@ -15,11 +15,11 @@
 
 ## `whoami`
 
-I'm **Tyler**, a software developer known online as **nyx**.
+I'm **Tyler**, a full stack developer known online as **nyx**.
 
-I build software, game systems, web applications and developer tools. Most of my work is around **Roblox, FiveM, web and desktop development**.
+I build software, game systems, web applications and developer tools across **Roblox, FiveM, web and desktop**.
 
-I enjoy building things from scratch, figuring out how systems work and turning ideas into software people can actually use.
+Most of what I build starts as an idea and ends up as something I can actually use.
 
 ---
 
@@ -27,8 +27,8 @@ I enjoy building things from scratch, figuring out how systems work and turning 
 
 | Project | Description |
 | :--- | :--- |
-| **Loopwise** | A practical coding platform built around learning by making. |
-| **Venture Studios** | Roblox roleplay and school-based development. |
+| **Loopwise** | Coding platform focused on learning by building. |
+| **Venture Studios** | Roblox roleplay and school development. |
 | **FiveM Projects** | Server resources, UI and infrastructure. |
 
 ---
@@ -57,15 +57,19 @@ Roblox • FiveM • Windows
 ```text
 → Building Loopwise
 → Building Roblox projects
-→ Working on web & desktop software
-→ Learning something new with every project
+→ Building web & desktop software
+→ Learning by building
 ```
 
 ---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nyx-devs&show_icons=true&hide_border=true&bg_color=0b0f0e&title_color=ffffff&icon_color=8affc1&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nyx-devs&show_icons=true&hide_border=true&bg_color=0b0f0e&title_color=ffffff&icon_color=8affc1&text_color=c9d1d9"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyx-devs&hide_border=true&background=0b0f0e&ring=8affc1&fire=8affc1&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
