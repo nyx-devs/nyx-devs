@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-nyx--devs-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyx-devs)
 [![Discord](https://img.shields.io/badge/Discord-.nyxdev-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T2E1282A3U)
 </div>
 
 ---
